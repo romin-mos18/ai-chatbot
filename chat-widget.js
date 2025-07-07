@@ -14,7 +14,7 @@
     // Default configuration - can be overridden by window.ChatWidgetConfig
     const defaultConfig = {
         webhook: {
-            url: 'https://n8n.myonsitehealthcare.com/webhook/c7e03ef8-cbcf-4f0e-8168-223d43cc8bd2',
+            url: 'https://n8n.myonsitehealthcare.com/webhook/2f3cd335-271c-4298-a276-1884349480fd/chat',
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
