@@ -14,7 +14,7 @@
     // Default configuration - can be overridden by window.ChatWidgetConfig
     const defaultConfig = {
         webhook: {
-            url: 'https://n8n.myonsitehealthcare.com/webhook/2f3cd335-271c-4298-a276-1884349480fd/chat',
+            url: 'https://n8n.netlify.at/webhook/40843514-4791-4298-ba33-2ff407f22051/chat',
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
